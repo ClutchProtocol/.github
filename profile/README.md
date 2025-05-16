@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/clutch-protocol/clutch-protocol/raw/main/logo.png" width="120" alt="Clutch Protocol Logo" />
+  <img src="https://avatars.githubusercontent.com/u/211993100" width="120" alt="Clutch Protocol Logo" />
 </p>
 
 # Clutch Protocol
@@ -25,5 +25,5 @@ Clutch Protocol is an open, modular blockchain protocol powering decentralized r
 ---
 
 <p align="center">
-  <b>Created and maintained by <a href="https://github.com/[YourUsername]">@YourUsername</a></b>
+  <b>Created and maintained by <a href="[https://github.com/MehranMazhar](https://github.com/MehranMazhar)">@MehranMazhar</a></b>
 </p>
