@@ -1,0 +1,31 @@
+# Branch Protection Configuration for Clutch Protocol
+# This allows force pushes and direct PR merging for development purposes
+
+branches:
+  - name: main
+    protection:
+      # Allow force pushes for development
+      allow_force_pushes: true
+      
+      # Allow direct pushes to main (for you as maintainer)
+      allow_deletions: true
+      
+      # Required status checks
+      required_status_checks:
+        strict: false
+        contexts: []
+      
+      # Required PR reviews (disabled for direct development)
+      required_pull_request_reviews:
+        required_approving_review_count: 0
+        dismiss_stale_reviews: false
+        require_code_owner_reviews: false
+        require_last_push_approval: false
+      
+      # Enforce restrictions (disabled for development)
+      enforce_admins: false
+      restrictions: null
+      
+      # Allow direct pushes
+      allow_deletions: true
+      allow_force_pushes: true
