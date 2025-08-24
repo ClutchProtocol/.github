@@ -37,10 +37,10 @@ Clutch Protocol consists of four core components working together to create a de
 
 | Component | Description | Technology | Status |
 |-----------|-------------|------------|--------|
-| **[clutch-node](https://github.com/clutch-protocol/clutch-node)** | Blockchain core with Aura consensus | Rust | 🚧 Development |
-| **[clutch-hub-api](https://github.com/clutch-protocol/clutch-hub-api)** | API layer bridging apps to blockchain | Node.js | 🚧 Development |
-| **[clutch-hub-sdk-js](https://github.com/clutch-protocol/clutch-hub-sdk-js)** | JavaScript SDK for transaction signing | TypeScript | 🚧 Development |
-| **[clutch-hub-demo-app](https://github.com/clutch-protocol/clutch-hub-demo-app)** | Reference implementation & MVP demo | React | 🚧 Development |
+| **[clutch-node](https://github.com/clutchprotocol/clutch-node)** | Blockchain core with Aura consensus | Rust | 🚧 Development |
+| **[clutch-hub-api](https://github.com/clutchprotocol/clutch-hub-api)** | API layer bridging apps to blockchain | Node.js | 🚧 Development |
+| **[clutch-hub-sdk-js](https://github.com/clutchprotocol/clutch-hub-sdk-js)** | JavaScript SDK for transaction signing | TypeScript | 🚧 Development |
+| **[clutch-hub-demo-app](https://github.com/clutchprotocol/clutch-hub-demo-app)** | Reference implementation & MVP demo | React | 🚧 Development |
 
 ---
 
@@ -76,7 +76,7 @@ Clutch Protocol consists of four core components working together to create a de
 ### **🔧 For Developers**
 ```bash
 # Clone the blockchain node
-git clone https://github.com/clutch-protocol/clutch-node.git
+git clone https://github.com/clutchprotocol/clutch-node.git
 cd clutch-node
 cargo build --release
 
@@ -87,14 +87,14 @@ cargo build --release
 ### **📱 For App Builders**
 ```bash
 # Install the JavaScript SDK
-npm install @clutch-protocol/hub-sdk-js
+npm install @clutchprotocol/hub-sdk-js
 
 # Start building on Clutch
 npm create clutch-app my-ride-app
 ```
 
 ### **🌐 Try the Demo**
-Visit our [Demo App](https://github.com/clutch-protocol/clutch-hub-demo-app) to see Clutch Protocol in action!
+Visit our [Demo App](https://github.com/clutchprotocol/clutch-hub-demo-app) to see Clutch Protocol in action!
 
 ---
 
@@ -123,7 +123,7 @@ We're building toward our **MVP launch in September 2025** — 12 weeks of inten
 5. **🎉 Join** the decentralized future!
 
 ### **📢 Stay Connected**
-- 📧 **GitHub Discussions**: [Community Hub](https://github.com/orgs/clutch-protocol/discussions)
+- 📧 **GitHub Discussions**: [Community Hub](https://github.com/orgs/clutchprotocol/discussions)
 - 🐛 **Issues**: Report bugs and feature requests
 - 📚 **Documentation**: Coming soon via GitHub Wiki
 
@@ -166,6 +166,6 @@ This project is licensed under a custom license. See individual repository LICEN
 
 *Created and maintained by [Mehran Mazhar](https://github.com/MehranMazhar) • Powered by Community*
 
-**[🌟 Star us](https://github.com/clutch-protocol) • [🤝 Contribute](https://github.com/orgs/clutch-protocol/discussions) • [📖 Learn More](https://github.com/clutch-protocol/clutch-node)**
+**[🌟 Star us](https://github.com/clutchprotocol) • [🤝 Contribute](https://github.com/orgs/clutchprotocol/discussions) • [📖 Learn More](https://github.com/clutchprotocol/clutch-node)**
 
 </div>
